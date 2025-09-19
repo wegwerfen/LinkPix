@@ -1,0 +1,20 @@
+{
+  "placeholders": [
+    "cfg",
+    "clip_skip",
+    "denoise",
+    "height",
+    "img_format",
+    "lora_1",
+    "lora_2",
+    "model",
+    "negative_prompt",
+    "prompt",
+    "sampler",
+    "scheduler",
+    "seed",
+    "steps",
+    "vae",
+    "width"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "comfyui_url": "http://127.0.0.1:8188",
+  "workflow_path": "workflows\\chroma_for proxy.json",
+  "output_dir": "cache",
+  "timeout": 240,
+  "image_format": "png",
+  "web_port": 8501,
+  "network_access": true,
+  "default_prompt_strength": 7.5,
+  "batch_size": 1,
+  "allow_public_access": false,
+  "global_cache": false
+}

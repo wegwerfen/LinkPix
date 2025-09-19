@@ -1,0 +1,46 @@
+{
+    "none": {
+        "pre": "",
+        "post": ""
+    },
+    "2D Game Art": {
+        "pre": "2D Game Art",
+        "post": "2D Game Art, often for platformers, pixel art, or side-scrolling games."
+    },
+    "3D Animation": {
+        "pre": "3D Animation",
+        "post": "3D Animation, often for computer-generated imagery, three-dimensional modeling, or virtual cinematography"
+    },
+    "Animated Films": {
+        "pre": "Animated Films",
+        "post": "Animated Films, often for animated characters, creative visuals, or family-friendly entertainment."
+    },
+    "Animation": {
+        "pre": "Animation",
+        "post": "Creating art with Animation, often for moving images, storytelling, or dynamic visuals."
+    },
+    "Caricature": {
+        "pre": "Caricature",
+        "post": "Creating art with Caricature, often for exaggeration, humor, or satirical portraits."
+    },
+    "Cinematography": {
+        "pre": "Art of capturing moving images in filmmaking",
+        "post": "including camera work, lighting, and composition."
+    },
+    "Ghibli_Surrealism": {
+        "pre": "Studio Ghibli style",
+        "post": "Dreamlike wonder, hand painted backgrounds, youthful characters, wholesome"
+    },
+    "kawaii": {
+        "pre": "kawaii style",
+        "post": "cute, adorable, brightly colored, cheerful, anime influence, highly detailed"
+    },
+    "manga": {
+        "pre": "manga style",
+        "post": "vibrant, high-energy, detailed, iconic, Japanese comic style"
+    },
+    "DSLR studio photograph": {
+        "pre": "A cinematic DSLR studio photograph shot on 35mm film with a 28mm f/2 lens.",
+        "post": "Soft light cuts across the scene, throwing vivid shadows and emphasizing every slick detail. The DSLR digital photo of the 35mm film highlights pores, faint stretch marks, and skin texture for raw realism."
+    }
+}

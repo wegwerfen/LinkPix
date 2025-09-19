@@ -1,0 +1,56 @@
+# LinkPix - AI Image Generation Server
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# LinkPix generated content
+cache/                    # Generated images cache
+*.png                     # Image files
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+
+# LinkPix user data (auto-generated)
+data/user_preferences.json
+
+# Workflow backups (auto-generated)
+workflows/settings/
+workflows/originals/
+
+# Development files
+*.log                     # Log files
+.pytest_cache/           # Test cache
+.coverage                # Coverage reports
+*.cover
+
+# IDE/Editor files
+.vscode/
+.idea/
+.claude/                 # Claude Code internal files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project documentation (internal)
+CLAUDE.md                # Claude Code instructions - project-specific
